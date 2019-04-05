@@ -1,0 +1,13 @@
+Part1
+{
+Section1
+{
+String1
+String2
+}
+Section2
+{
+String3
+String4
+}
+}
